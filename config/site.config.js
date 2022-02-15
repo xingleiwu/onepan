@@ -58,7 +58,7 @@ module.exports = {
     },
         {
       name: 'twitter',
-      link: 'https://https://twitter.com/sevenccmm',
+      link: 'https://twitter.com/sevenccmm',
     },
   ],
 
