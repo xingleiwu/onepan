@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Steve's OneDrive",
+  title: "转圈圈",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/wodedd',
@@ -48,14 +48,14 @@ module.exports = {
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
   links: [
-    {
-      name: 'GitHub',
-      link: 'https://github.com/zxfccmm4/onedrive-vercel-index',
-    },
-    {
-      name: 'Telegram',
-      link: 'https://t.me/+kf7ewH-conM5MDRl',
-    },
+//     {
+//       name: 'GitHub',
+//       link: 'https://github.com/zxfccmm4/onedrive-vercel-index',
+//     },
+//     {
+//       name: 'Telegram',
+//       link: 'https://t.me/+kf7ewH-conM5MDRl',
+//     },
         {
       name: 'twitter',
       link: 'https://twitter.com/sevenccmm',
